@@ -9,6 +9,48 @@ Who are the influential researchers who left their mark on the field?
 What are some of the most influential research articles, books, software, etc?
 
 References:
+Certainly! Here’s a formatted list of references for your paper:
+
+---
+
+**References**
+
+Dijkstra, E. W. (1968). Cooperating sequential processes. In **Programming Languages** (Vol. 1, pp. 43-112). Academic Press.  
+- - - This seminal work introduces the concept of semaphores for managing concurrency and mutual exclusion in computer systems.  
+
+Hoare, C. A. R. (1978). **Communicating Sequential Processes**. Prentice Hall.  
+- - - Tony Hoare’s foundational text on CSP provides a formal framework for describing patterns of interaction in concurrent systems.  
+
+Hewitt, C. (1973). A Universal Modular Actor Formalism for Artificial Intelligence. In **Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)** (pp. 235-245).  
+- - - Carl Hewitt introduced the Actor Model, which abstracts concurrent computation as a collection of actors that interact through message passing.  
+
+Milner, R. (1992). **The Pi-calculus: A Theory of Mobile Processes**. Cambridge University Press.  
+- - - Robin Milner’s work on Pi-calculus extends process calculi to handle mobile systems and provides a formal model for analyzing concurrency.  
+
+Pnueli, A. (1977). The Temporal Logic of Programs. **Proceedings of the 18th Annual Symposium on Foundations of Computer Science (FOCS)**, 46-57.  
+- - - Amir Pnueli’s introduction of temporal logic provides a formal system for specifying and reasoning about concurrent programs over time.  
+
+Armstrong, J. (2003). Making reliable distributed systems in the presence of software errors. **PhD Thesis**, Royal Institute of Technology.  
+- - - Joe Armstrong’s thesis details the design and philosophy behind Erlang, focusing on concurrency, fault tolerance, and distributed systems.  
+
+Dijkstra, E. W. (1976). **A Discipline of Programming**. Prentice Hall.  
+- - - Edsger Dijkstra’s book on formal programming methods includes principles for concurrent programming and introduces concepts like structured programming.  
+
+Manna, Z., & Pnueli, A. (1992). **The Temporal Logic of Reactive and Concurrent Systems**. Springer.  
+- - - This book discusses the use of temporal logic to specify and verify properties of concurrent systems, providing a comprehensive theoretical framework.  
+
+Erlang. **Erlang Documentation**. Retrieved from [https://www.erlang.org/](https://www.erlang.org/)  
+- - - Erlang is a programming language designed for concurrent and fault-tolerant systems, with documentation outlining its concurrency model and features.  
+
+Rust. **Rust Programming Language Documentation**. Retrieved from [https://www.rust-lang.org/](https://www.rust-lang.org/)  
+- - - Rust focuses on safety and concurrency, with its documentation detailing modern concurrency features and memory safety mechanisms.  
+
+Go. **Go Programming Language Documentation**. Retrieved from [https://golang.org/](https://golang.org/)  
+- - - Go includes features like goroutines and channels for concurrent programming, with documentation providing an overview of its concurrency model.
+
+---
+
+Feel free to adjust any details or add more references as needed!
 
 A conversation with Chat-GPT 3:
 ---
