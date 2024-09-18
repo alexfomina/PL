@@ -8,9 +8,6 @@ How did these subfields influence each other?
 Who are the influential researchers who left their mark on the field?
 What are some of the most influential research articles, books, software, etc?
 
-References:
-Certainly! Here’s a formatted list of references for your paper:
-
 ---
 
 **References**
@@ -49,8 +46,6 @@ Go. **Go Programming Language Documentation**. Retrieved from [https://golang.or
 - - - Go includes features like goroutines and channels for concurrent programming, with documentation providing an overview of its concurrency model.
 
 ---
-
-Feel free to adjust any details or add more references as needed!
 
 A conversation with Chat-GPT 3:
 ---
